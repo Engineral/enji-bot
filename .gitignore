@@ -6,3 +6,4 @@ assets
 config.py
 __pycache__
 *.pyc
+discord.log
